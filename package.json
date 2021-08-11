@@ -1,7 +1,7 @@
 {
   "name": "esbuild-test",
   "version": "1.0.0",
-  "description": "测试用",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "build": "esbuild --bundle src/index.js --outfile=www/main.js",
